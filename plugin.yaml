@@ -1,0 +1,7 @@
+name: seek-npm
+description: Helps build and publish NPM packages at SEEK
+author: https://github.com/seek-oss
+configuration:
+  properties:
+    publish:
+      type: boolean
